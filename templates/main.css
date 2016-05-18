@@ -1,0 +1,11 @@
+html {
+	width: 100%;
+	display: flex;
+
+}
+
+body {
+	max-width: 960px;
+	flex: auto;
+	display:flex;
+}
