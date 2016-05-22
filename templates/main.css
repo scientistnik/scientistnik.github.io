@@ -1,11 +1,65 @@
 html {
 	width: 100%;
+	min-height: 100%;
 	display: flex;
-
+	display: -webkit-flex;
+	flex-direction: column;
 }
 
 body {
 	max-width: 960px;
+	margin: auto;
+	width: 100%;
 	flex: auto;
 	display:flex;
+	display: -webkit-flex;
+	background: #ccc;
+	flex-direction: column;
+	font-family: sans-serif;
+}
+
+header {
+	margin: 0 5px 10px;
+	padding: 30px 0px;
+}
+
+.main {
+	width: 100%;
+	flex-grow: 1;
+	margin: auto;
+	box-sizing: border-box;
+}
+
+footer {
+	background: #222;
+	color: white;
+	padding: 15px;
+}
+
+.logo-link {
+	display: flex;
+	align-items: center;
+}
+
+.logo {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	background: #222;
+	margin: 5px;
+}
+
+.logo_name {
+	width: 80px;
+	height: 30px;
+	background: #222;
+}
+
+a {
+ text-decoration: underline;
+ color: #1194c4;
+}
+
+a:hover {
+	text-decoration: none;
 }
