@@ -1,40 +1,40 @@
-@charset="utf-8";
-
 html {
 	font-family: sans-serif;
 	display: flex;
 	display: -webkit-flex;
 	flex-direction: column;
+	width: 100%;
+	height: 100%;
 }
 
 body {
+	max-width: 960px;
+	width: 100%;
+	margin: 0 auto;
 	display: flex;
 	display: -webkit-flex;
-	flex-flow: row wrap;
+	flex-flow: row nowrap;
 	align-content: flex-start;
-	margin: 0px;
 }
 
 .first {
-	flex-grow: 2;
 	background: #222;
 	display: block;
-	max-width: 650px;
-	max-height: 650px;
 	color: white;
-	height: 100%;
-	width: 100%;
-	margin: 10px 5px 10px 10px;
-	min-height: 430px;
+	flex: 0 1 710px;
+	max-width: 710px;
+	height: 430px;
+	margin: 5px;
 }
 
 .conteiner {
 	flex-grow: 1;
-	margin: 10px;
 	display: flex;
 	display: -webkit-flex;
 	flex-wrap: column wrap;
 	align-content: space-between;
+	flex: 1 1 220px;
+	margin: 5px;
 }
 
 .second {
@@ -42,7 +42,6 @@ body {
 	color: white;
 	height: 215px;
 	width: 215px;
-	margin: 0 5px;
 }
 
 .tree {
