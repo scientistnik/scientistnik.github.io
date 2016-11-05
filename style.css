@@ -58,15 +58,14 @@ header {
 	padding: 10px;
 }
 
-.right-pane, .left-pane {
-	display: inline-block;
+.left-block, .right-block {
 	width: 400px;
-	margin: auto;
+	display: inline-block;
 }
 
 .info-block {
 	display: inline-block;
-	width: 100%;
+	width: 400px;
 	position: relative;
 	margin: 5px 0;
 }
@@ -92,6 +91,37 @@ header {
 	padding: 5px 0;
 }
 
-table {
-	border: 1px solid black;
+.info-block:nth-child(odd) .flag {
+	background-color: #2c3e50;
+}
+
+.info-block:nth-child(odd) .title {
+	background-color: #3498db;
+}
+
+.skill-main {
+	height: 10px;
+	background-color: lightgreen;
+	border-radius: 5px;
+}
+
+.skill {
+	height: 100%;
+	width: 80%;
+	background-color: green;
+	border-radius: 5px;
+}
+
+.skill.c-cplusplus {
+	width: 90%;
+	background-color: red;
+}
+
+.skill.ruby {
+	width: 60%;
+	background-color: blue;
+}
+
+h1 {
+	font-size: 18px;
 }
