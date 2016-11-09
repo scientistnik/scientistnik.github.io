@@ -58,16 +58,11 @@ header {
 	padding: 10px;
 }
 
-.left-block, .right-block {
-	width: 400px;
-	display: inline-block;
-}
-
 .info-block {
 	display: inline-block;
-	width: 400px;
+	width: 100%;
 	position: relative;
-	margin: 5px 0;
+	margin: 5px 0 20px;
 }
 
 .flag {
@@ -91,35 +86,58 @@ header {
 	padding: 5px 0;
 }
 
-.info-block:nth-child(odd) .flag {
+.persons {
+	width: 100%;
+	margin: auto;
+}
+
+.left-block, .right-block {
+	width: 47%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 1%;
+}
+
+.work-exp .flag, .education .flag {
 	background-color: #2c3e50;
 }
 
-.info-block:nth-child(odd) .title {
+.work-exp .title, .education .title {
 	background-color: #3498db;
 }
 
+/*
+.skills .data:last-child {
+	margin-bottom: 50px;
+}
+*/
+
 .skill-main {
 	height: 10px;
-	background-color: lightgreen;
+	background-color: #aaa;
 	border-radius: 5px;
 }
 
 .skill {
 	height: 100%;
 	width: 80%;
-	background-color: green;
+	background-color: #080;
 	border-radius: 5px;
 }
 
 .skill.c-cplusplus {
 	width: 90%;
-	background-color: red;
+	background-color: #00a;
 }
 
 .skill.ruby {
 	width: 60%;
-	background-color: blue;
+	background-color: #a00;
+}
+
+.skill.javascript {
+	width: 30%;
+	background-color: #cc0;
 }
 
 h1 {
