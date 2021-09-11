@@ -32,8 +32,8 @@ github_username: scientistnik
 logo: "/assets/images/logo.jpg"
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 # Exclude from processing.
