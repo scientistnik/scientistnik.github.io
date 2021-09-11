@@ -62,5 +62,6 @@ defaults:
       path: ""
       type: posts
     values:
+    layout: single
       read_time: true
       show_date: true
