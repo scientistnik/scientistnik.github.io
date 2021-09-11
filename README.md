@@ -1,1 +1,0 @@
-# scientistnik.github.io
