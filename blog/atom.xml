@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://scientistnik.ru/blog</id>
     <title>scientistnik Blog</title>
     <updated>2019-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://scientistnik.ru/blog"/>
     <subtitle>scientistnik Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://scientistnik.ru/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Как инвестировать под 21% и получить за это обувь]]></title>
         <id>percent-interest</id>
-        <link href="https://your-docusaurus-test-site.com/blog/percent-interest"/>
+        <link href="https://scientistnik.ru/blog/percent-interest"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[image-center]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="image-center" src="/assets/images/affex-logo-91916f84318a9a8b13615190c3cfd54b.png" width="522" height="304" class="img_ev3q"></p><p>Доброго времени суток, дорогие читатели.<!-- --> Давно я не радовал Вас своими новостями. Да в прочем и не было особо новостей. Но сегодня появилась!
@@ -27,7 +27,7 @@
     <entry>
         <title type="html"><![CDATA[Affex - все, Коля-разоритель и день рождение в крипто-компании]]></title>
         <id>affex-end</id>
-        <link href="https://your-docusaurus-test-site.com/blog/affex-end"/>
+        <link href="https://scientistnik.ru/blog/affex-end"/>
         <updated>2019-02-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[image-center]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="image-center" src="/assets/images/karma-percents-cc54bb42b8c6dd7eaa1e20fa8a2acb8c.png" width="690" height="438" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="affex---все">Affex - все<a class="hash-link" href="#affex---все" title="Direct link to heading">​</a></h2><p><img loading="lazy" alt="image-center" src="/assets/images/affex-end-cd7130190de64973a0e57e0faf10f4d7.png" width="892" height="222" class="img_ev3q"></p><p>Affex полностью выплатил долг.<!-- --> Видимо новогодние праздники были очень прибыльны. Ну и соответственно доход получил я только за два месяца.</p><p>С одной стороны это хорошо, с другой пришлось досрочно выбирать новые заявки для инвестирования.</p><p>В любом случае скажем спасибо Affex за возможность немного подзаработать.
@@ -50,7 +50,7 @@
     <entry>
         <title type="html"><![CDATA[Karma изнутри]]></title>
         <id>karma-inside</id>
-        <link href="https://your-docusaurus-test-site.com/blog/karma-inside"/>
+        <link href="https://scientistnik.ru/blog/karma-inside"/>
         <updated>2019-01-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[image-center]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="image-center" src="/assets/images/karma-logo-d4008d4e2e6768038b649fc3370bd3fe.png" width="452" height="213" class="img_ev3q"></p><p>Доброго времени суток, дорогой читатель.
@@ -72,7 +72,7 @@
     <entry>
         <title type="html"><![CDATA[Главные принципы обучения]]></title>
         <id>main-principles-of-education</id>
-        <link href="https://your-docusaurus-test-site.com/blog/main-principles-of-education"/>
+        <link href="https://scientistnik.ru/blog/main-principles-of-education"/>
         <updated>2017-10-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[На самом деле принципов обучения довольно много. Но я бы хотел остановиться на самых важных с моей точки зрения. Поэтому попрошу не ругаться за слово "главные" в заголовке!]]></summary>
         <content type="html"><![CDATA[<p>На самом деле принципов обучения довольно много. Но я бы хотел остановиться на самых важных с <a href="/blog/my-imho">моей точки зрения</a>. Поэтому попрошу не ругаться за слово "главные" в заголовке!</p><p><em>Для начала давайте попробуем разобраться как происходит обучение. Понимание этого поможет нам определить приоритеты.</em></p><p><img loading="lazy" alt="image-center" src="/assets/images/neurons-716a14ebc0fa68faa13b89ef2b2aaa0d.png" width="1080" height="675" class="img_ev3q"></p><p>Предельно все упрощая, наш головной мозг - это набор нейронов, связанных между собой. Обучение - это формирование новых связей между нейронами. При формировании новых связей, этим самые связи весьма неустойчивы. Если их не подкреплять, то связь ослабевает до полного исчезновения. Другими словами, мы забываем материал. На самом деле мы постоянно забываем, то что постоянно не используем. Скорость забывания зависит от крепости связи и степени связности данной связи с другим цепочками. Таким образом, если вы хорошо умели кататься на велосипеде, но уже лет 30 не катались, вам понадобится всего пару минут, чтобы восстановить свои умения. Однако, если Вы плохо катались на коньках, то видимо Вам это не особо и нужно и мозг эти связи не сохранит. В этом заключается величайшая гибкость человеческого мозга.
@@ -86,7 +86,7 @@
     <entry>
         <title type="html"><![CDATA[Мое личное мнение]]></title>
         <id>my-imho</id>
-        <link href="https://your-docusaurus-test-site.com/blog/my-imho"/>
+        <link href="https://scientistnik.ru/blog/my-imho"/>
         <updated>2017-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[В данной статье я бы хотел рассказать о своем личном мнении, как я его представляю и, следовательно, как я воспринимаю личное мнение других людей. В этом описании безусловно присутствует некое упрощение, но мне кажется даже в таком виде это будет кому-нибудь полезно. А полезно это будет минимум мне самому, т.к. собираюсь в некоторых дискуссиях использовать отсылку к этой статье.]]></summary>
         <content type="html"><![CDATA[<p align="center"><img loading="lazy" src="/img/imho.png" class="img_ev3q"></p><p>В данной статье я бы хотел рассказать о своем личном мнении, как я его представляю и, следовательно, как я воспринимаю личное мнение других людей. В этом описании безусловно присутствует некое упрощение, но мне кажется даже в таком виде это будет кому-нибудь полезно. А полезно это будет минимум мне самому, т.к. собираюсь в некоторых дискуссиях использовать отсылку к этой статье.</p><hr><p><img loading="lazy" alt="image-center" src="/assets/images/imho-image-937735d72277925bb8c816cf1b38c1f4.png" width="640" height="400" class="img_ev3q"></p><p>При рождении у меня был довольно хороший генетический набор. Пока я был маленький за мной ухаживали родители. Они показывали мне как делать можно, а как нельзя, как делать правильно, а как неправильно. В результате к определенному возрасту у меня сформировалось представление о добре, зле, справедливости, любви и об объективной реальности. Другими словами у меня сформировался каркас моего мировосприятия. Дальнейшие события шлифовали это мировосприятие, уточняли детали, помогали находить дополнительные закономерности. Можно сказать, мой опыт воспринимался с точки зрения моего мировосприятия, переосмысливался и даже его изменял. И по сей день, можно с уверенностью сказать, что этот процесс продолжается. Когда я получаю какую-либо информацию, я обрабатываю ее с точки зрения своего мировосприятия и опыта. Когда происходят какие-то действия, я отвечаю на это так как следует из моего мировосприятия, опыта, текущего физического и психологического состояния. Так я воспринимаю себя. Но аналогично я воспринимаю и других. Разговаривая с другом, я понимаю, что его история жизни уникальна, его воспитание, жизненный опыт сформировал его мировоззрение. И оно уникально, неповторимо. На всем земном шаре нет такого же представление о мире. И это заставляет меня смотреть на него по-особому. Забавно то, что иногда в разговоре мы сходимся во мнении, а иногда расходимся. Это показывает схожесть и различие наших миров. Однако, именно из-за этого я не могу воспринимать его слова и поступки за "чистую монету". Я знаю, что это его видение, его восприятие. У меня оно другое. Это не значит, что я не прислушиваюсь к мнению других. Это значит, что для меня важны причины действия.</p><p>#<img loading="lazy" alt="image-center" src="/assets/images/i-am-and-friend-f7decf9c05ad1e979e72b7bf6b3775df.png" width="558" height="315" class="img_ev3q"></p><p>Представьте себе студента Сашу. Начинается сессия, и он бросает университет. Декан университета, зная что у Саши много задолженностей по учебе, считает что Саша просто осознал, что не успеет все сдать, и решил не мучиться. Мама Саши думает, что это его девушка плохо повлияла, он потерял рассудок и делает неадекватные вещи. Девушка Саши, собираясь переезжать в другой город, думает, что Саша так сильно ее любит, что готов на все чтобы быть с ней. Ну а папа Саши думает, что он просто дурак, т.к. лишает себя будущего. А теперь вы скажите, кто из этих людей прав? Давайте спросим у Саши. Саше не нравится учиться, он знает что не будет работать по специальности. Он также любит свою девушку, поэтому ее переезд это повод бросить университет. Так он остается с любимым человеком, и избавляется от бессмысленной учебы. Только сам Саша понимает весь смысл своего поступка. Все остальные восприняли это с точки зрения своего мировосприятия.</p><p>#<img loading="lazy" alt="image-center" src="/assets/images/change-opinion-e9e96882ba6aba38809bba6ba77c6969.png" width="384" height="389" class="img_ev3q"></p><p>По моему личному наблюдению, люди очень часто совершают такую ошибку: они не понимают мир собеседника, а рассматривают его слова и действия, с точки зрения своего. Да что уж там говорить о других, если я сам периодически попадаю в такую ситуацию. Для себя я даже сделал разграничения по восприятию на уровни согласия и понимания. Уровень согласия, это когда ты согласен с собеседником, когда его слова, поступки ты и сам совершил бы. Для тебя он адекватно себя ведет. Если ты считаешь, что кто-то ведет себя неадекватно, это говорит, что ваши уровни согласия различаются. Чтобы понять друг друга, нужно перейти на уровень понимания. Уровень понимания, это когда по твоему мнению, человек ведет себя неадекватно, но поняв его мировоззрение, ты начинаешь понимать причины его действий. Переходить на уровень понимания гораздо сложнее, чем оставаться на уровне согласия. Да и переход не всегда удается. Из такого понимания выходит очень забавный вывод: объективной реальности не существует, существует только набор субъективных. И люди по сути объединяются по принципу схожести восприятия. Это применимо к религии и даже науке. В следующих статьях я обосную свою позицию.</p><p>#<img loading="lazy" alt="image-center" src="/assets/images/diff-opinion-19e9caee62fbb600843587fd46631c5a.png" width="632" height="392" class="img_ev3q"></p><p>Мне кажется, наш мир станет чуточку лучше, если мы по возможности будем стараться понимать друг друга. Давайте будем развивать в себе толерантность!</p>]]></content>
@@ -99,7 +99,7 @@
     <entry>
         <title type="html"><![CDATA[О обучении, и обучении программированию в частности!]]></title>
         <id>about-programming-education</id>
-        <link href="https://your-docusaurus-test-site.com/blog/about-programming-education"/>
+        <link href="https://scientistnik.ru/blog/about-programming-education"/>
         <updated>2017-09-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Революция в образовании]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="революция-в-образовании">Революция в образовании<a class="hash-link" href="#революция-в-образовании" title="Direct link to heading">​</a></h2><p>Сейчас на Голосе набирают оборот образовательные сообщества. Реакция людей на это, как на что-то революционное, приводит меня в изумление. На самом деле ничего революционного в образовании на блокчейне не заметил, даже скорей много ограничивающих факторов. Причем многие создатели таких курсов полагаю это осознают, а вот ученики почему нет. Спросите, что в этом плохого? Ничего. Абсолютно ничего.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="революция-образования">Революция образования<a class="hash-link" href="#революция-образования" title="Direct link to heading">​</a></h2><p>Есть такая наука, называется дидактика. Ее основная цель, понять чему надо учить и как этому учить лучше. И этим занимается целая наука. Просто это не такой простой вопрос, как может показаться.
@@ -126,7 +126,7 @@
     <entry>
         <title type="html"><![CDATA[Что такое программирование]]></title>
         <id>programming-it-is</id>
-        <link href="https://your-docusaurus-test-site.com/blog/programming-it-is"/>
+        <link href="https://scientistnik.ru/blog/programming-it-is"/>
         <updated>2016-05-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Программирование - это составление алгоритма поведения для исполнителя, с целью выполнения задания.]]></summary>
         <content type="html"><![CDATA[<p><strong>Программирование</strong> - это составление алгоритма поведения для исполнителя, с целью выполнения задания.<!-- -->
@@ -151,7 +151,7 @@
     <entry>
         <title type="html"><![CDATA[Будущее образования]]></title>
         <id>future-education</id>
-        <link href="https://your-docusaurus-test-site.com/blog/future-education"/>
+        <link href="https://scientistnik.ru/blog/future-education"/>
         <updated>2016-05-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Современные люди - это уже не те люди, которые были 20, 30 лет назад. Технологии изменили человека, они повлияли на наше отношение к информации, к нашему способу ее обробатывать и усваивать. К сожалению в учереждениях образования (будь то школы, колледжы или университеты) не сильно спешат изменить способ преподования современным людям. В место этого старыми методами обучения, которые стоит признать работали на прошлых поколениях, пытаются обучить текущее. И видя ухудшающиеся с каждым годом показатели успеваимости, учителя привыкли венить самих учащихся, вместо того, чтобы признать несостоятельностьприменяемых методов. Однако эта тенденция не повсеместна: некоторые университеты в разных уголках нашей планеты начинают экспериментировать с принципиально новыми методами обучения.]]></summary>
         <content type="html"><![CDATA[<p>Современные люди - это уже не те люди, которые были 20, 30 лет назад. Технологии изменили человека, они повлияли на наше отношение к информации, к нашему способу ее обробатывать и усваивать. <!-- -->К сожалению в учереждениях образования (будь то школы, колледжы или университеты) не сильно спешат изменить способ преподования современным людям. В место этого старыми методами обучения, которые стоит признать работали на прошлых поколениях, пытаются обучить текущее. И видя ухудшающиеся с каждым годом показатели успеваимости, учителя привыкли венить самих учащихся, вместо того, чтобы признать несостоятельностьприменяемых методов. Однако эта тенденция не повсеместна: некоторые университеты в разных уголках нашей планеты начинают экспериментировать с принципиально новыми методами обучения.</p><p>Давайте разберем основные тезисы для формирования новых методов обучения:</p><ol><li><strong>Время удержания внимания</strong>. Уже довольно давно было выявлено, что у детей до 7 лет внимание рассеяно, т.е. ребенок не способен удерживать внимание на одном предмете более 10 минут. Развитие внимания происходит в период от 6 до 7 лет до определенного уровня (после 7 лет, ребенок способен удерживать внимание до 50 минут). Если ребенка отдать в 6 лет в школу без сформировавшегося внимания, то не удивительно, что для него школа будет весьма скучным временем припровождения. Он не будет способен воспринять всю даваемую ему информацию.
@@ -168,7 +168,7 @@
     <entry>
         <title type="html"><![CDATA[Взаимодействие в интернете]]></title>
         <id>relate-in-internet</id>
-        <link href="https://your-docusaurus-test-site.com/blog/relate-in-internet"/>
+        <link href="https://scientistnik.ru/blog/relate-in-internet"/>
         <updated>2016-05-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Взаимодействие в интернете происходит в основном оп клиент-серверной модели. Утриравонно это можно представить в виде двух взаимодействующих компьютеров. Один из которых называется клиентом, а другой сервером. Сервер - это компьютер предоставляющий информацию, а клиент - жаждущий ее получить. Поэтому клиентский компьютер делает запросы, указывая какие данные он хочет получить, а сервер получая их отправляет запрашиваемую информацию. Прелесть данной схемы в том, что клиентов может быть много, а серера достаточно одного.]]></summary>
         <content type="html"><![CDATA[<p>Взаимодействие в интернете происходит в основном оп клиент-серверной модели. <!-- -->Утриравонно это можно представить в виде двух взаимодействующих компьютеров. Один из которых называется клиентом, а другой сервером. Сервер - это компьютер предоставляющий информацию, а клиент - жаждущий ее получить. Поэтому клиентский компьютер делает запросы, указывая какие данные он хочет получить, а сервер получая их отправляет запрашиваемую информацию. Прелесть данной схемы в том, что клиентов может быть много, а серера достаточно одного.</p><p>В сети интернет находятся куча серверов. Как клиенту сделать запрос определенному серверу?! Для этого в интернете используют протокол IP (Internet Protocol) - стандарт принятый участниками интернета для организации взаимодействия. Согласно этому протоколу, каждому участнику взаимодействия (клиенту и серверу) назначается индивидуальный IP-адрес, который формируется по аналогии с адресом конкретного дома в стране, но выражается в виде 4-х чисел в диапазоне от 0 до 255. В результате, при подключении к интернету нового участника ему назначается IP-адрес. Таким образом все сервера и все клиенты в интернете имеют уникальный IP-адрес. Для запроса информации у конкретного сервека, клиент должен знать его IP-адрес. В запросе, клиент оставляет свой IP-адрес, чтобы сервер знал куда отправлять ответ.</p><p>Однако запоминать IP-адреса в виде 4-х чисел для человека накладно. Гораздо проще было бы запомнить слова или набор симоволов. Для этого в интернете распологают так называемые DNS-сервера. Главная их роль - проводить соотвествие между набором символов и IP-адресом. Теперь любому серверу достаточно зарезервировать набор симоволов под своим IP-адресом, а клиенту зная этот набор символов, нужно сначала сделать запрос DNS-серверу и получив IP-адрес требуемого сервера посылать на него запрос. Зарезервированный набор символов называется доменное имя.</p><p><strong>yandex.ru</strong> - это доменное имя,а IP-адрес сервера - 77.88.55.66.</p><p><strong>Бреузер</strong> - это специальная программа упрощающая клиенту жизнь. У браузера есть адресная строка, в которую можно вписать как доменное имя, так и IP-адрес. Браузер сделает все необходимое для подачи запроса указанному серверу. А получив ответ - отобразит на экране полученную информацию.</p><p><strong>Apache</strong> - это одна из самых популярных программ для превращения обычного компьютера в сервер. Она принимает запросы из сети, ищет запрашиваемую информацию в папке, узананной в настройках этой программы и отсылает ее по IP-адресу клиента следавшего запрос.</p><p>Стандартом для отображения информации на экране клиента является HTML. С помощью HTML можно указать, как требуется отобразить на экране информацию. Таким образом браузер получив ответ на свой запрос в виде HTML-документа, разбирает его и отображает соотвествующим образом.</p>]]></content>
@@ -178,65 +178,5 @@
         </author>
         <category label="programming" term="programming"/>
         <category label="beginner" term="beginner"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://your-docusaurus-test-site.com/blog/welcome"/>
-        <updated>2010-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://your-docusaurus-test-site.com/blog/mdx-blog-post"/>
-        <updated>2010-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p><div class="admonition admonition-tip alert alert--success"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</h5></div><div class="admonition-content"><p>Use the power of React to create interactive blog posts.</p><div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><button>Click me!</button></div></div>]]></content>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
-        </author>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://your-docusaurus-test-site.com/blog/long-blog-post"/>
-        <updated>2010-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://your-docusaurus-test-site.com/blog/first-blog-post"/>
-        <updated>2010-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
-        </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>
