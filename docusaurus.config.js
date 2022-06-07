@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "scientistnik",
   tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://scientistnik.ru",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -52,6 +52,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{ name: "yandex-verification", content: "84cb57aa3ccaa471" }],
       navbar: {
         title: "scientistnik",
         logo: {
@@ -123,6 +124,14 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      "docusaurus-plugin-yandex-metrica",
+      {
+        counterID: "62320633",
+      },
+    ],
+  ],
 };
 
 module.exports = config;
