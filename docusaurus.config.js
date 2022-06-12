@@ -7,21 +7,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "scientistnik",
-  tagline: "Dinosaurs are cool",
+  tagline: "Better is the enemy of good enough",
   url: "https://scientistnik.ru",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "scientistnik", // Usually your GitHub org/user name.
-  projectName: "scientistnik.github.io", // Usually your repo name.
+  organizationName: "scientistnik",
+  projectName: "scientistnik.github.io",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -39,8 +34,6 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          //editUrl:
-          //  "https://github.com/scientistnik/scientistnik.github.io/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -60,15 +53,15 @@ const config = {
           src: "img/logo.jpg",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
-          },
+          // {
+          //   type: "doc",
+          //   docId: "intro",
+          //   position: "left",
+          //   label: "Tutorial",
+          // },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/scientistnik/scientistnik.github.io",
+            href: "https://github.com/scientistnik",
             label: "GitHub",
             position: "right",
           },
@@ -78,28 +71,32 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Content",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Contacts",
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://stackoverflow.com/users/3770959/scientistnik",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "GitHub",
+                href: "https://github.com/scientistnik",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/scientistnik",
+                label: "VK",
+                href: "https://vk.com/scientistnik",
+              },
+              {
+                label: "Telegram",
+                href: "https://t.me/scientistnik",
               },
             ],
           },
@@ -107,11 +104,7 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
+                label: "This repo on GitHub",
                 href: "https://github.com/scientistnik/scientistnik.github.io",
               },
             ],
