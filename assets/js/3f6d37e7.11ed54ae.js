@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[2871],{5921:function(e){e.exports=JSON.parse('{"label":"beginner","permalink":"/blog/tags/beginner","allTagsPath":"/blog/tags","count":2}')}}]);
