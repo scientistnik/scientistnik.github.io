@@ -2,7 +2,7 @@
 slug: programming-languages
 title: Языки программирования
 authors: scientistnik
-tags: [programming, beginner]
+tags: [programming, beginner, draft]
 ---
 
 Прежде чем начать рассматривать языки программирования, настоятельно рекомендую прочитать статью Что такое программирование.<!--truncate-->

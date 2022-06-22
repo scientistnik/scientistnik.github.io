@@ -2,7 +2,7 @@
 slug: thinking-fast-and-slow
 title: Мысли о книге "Думай медленно, решай быстро"
 authors: scientistnik
-tags: [programming, book]
+tags: [book, draft]
 ---
 
 Thinking, fast and slow...
