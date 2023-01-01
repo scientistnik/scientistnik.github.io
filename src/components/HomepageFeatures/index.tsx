@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
@@ -10,32 +11,30 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Резюме',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Описание образования, рабочего опыта и скилов можно найти на странице <Link to="/cv">CV</Link>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Блог',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Пишу о своей философской позиции, мысли о прочитанных статьях и книгах, и окружающей действительности.
+        Все это можно почитать на странице <Link to="/blog">blog</Link>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Wisecode',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Проект доступного IT-образования для каждого. В данный момент не достаточно проработан для публикации
       </>
     ),
   },
@@ -60,9 +59,9 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {/* {FeatureList.map((props, idx) => (
+          {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
-          ))} */}
+          ))}
         </div>
       </div>
     </section>

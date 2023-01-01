@@ -18,8 +18,16 @@ const config = {
   projectName: "scientistnik.github.io",
 
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "ru",
+    locales: ["ru", "en"],
+    localeConfigs: {
+      en: {
+        htmlLang: "en",
+      },
+      ru: {
+        htmlLang: "ru",
+      },
+    },
   },
 
   presets: [
@@ -59,10 +67,22 @@ const config = {
           //   position: "left",
           //   label: "Tutorial",
           // },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/blog",
+            label: "Blog",
+            position: "left",
+            feedOptions: {
+              type: "all",
+              copyright: `Copyright © ${new Date().getFullYear()} scientistnik.ru`,
+            },
+          },
           {
             href: "https://github.com/scientistnik",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],
