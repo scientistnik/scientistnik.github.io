@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[9133],{3636:e=>{e.exports=JSON.parse('{"permalink":"/en/blog/tags/programming","page":1,"postsPerPage":10,"totalPages":2,"totalCount":15,"nextPage":"/en/blog/tags/programming/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

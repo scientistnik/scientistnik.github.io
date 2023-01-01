@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[5042],{8990:function(t){t.exports=JSON.parse('{"permalink":"/blog/tags/draft","page":1,"postsPerPage":10,"totalPages":1,"totalCount":6,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

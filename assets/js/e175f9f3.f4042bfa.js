@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[2881],{2530:s=>{s.exports=JSON.parse('{"label":"education","permalink":"/blog/tags/education","allTagsPath":"/blog/tags","count":4}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[4710],{8267:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/beginner","page":1,"postsPerPage":10,"totalPages":2,"totalCount":15,"nextPage":"/blog/tags/beginner/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

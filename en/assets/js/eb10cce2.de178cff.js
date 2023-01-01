@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[7507],{4675:e=>{e.exports=JSON.parse('{"label":"future","permalink":"/en/blog/tags/future","allTagsPath":"/en/blog/tags","count":1}')}}]);

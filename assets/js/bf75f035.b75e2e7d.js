@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscientistnik=self.webpackChunkscientistnik||[]).push([[4469],{2345:a=>{a.exports=JSON.parse('{"label":"karma","permalink":"/blog/tags/karma","allTagsPath":"/blog/tags","count":3}')}}]);
