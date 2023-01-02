@@ -37,8 +37,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/scientistnik/scientistnik.github.io/tree/main/packages/create-docusaurus/templates/shared/",
+          // editUrl:
+          //   "https://github.com/scientistnik/scientistnik.github.io/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -61,12 +61,12 @@ const config = {
           src: "img/logo.jpg",
         },
         items: [
-          // {
-          //   type: "doc",
-          //   docId: "intro",
-          //   position: "left",
-          //   label: "Tutorial",
-          // },
+          {
+            type: "doc",
+            docId: "intro",
+            position: "left",
+            label: "useful",
+          },
           {
             to: "/blog",
             label: "Blog",
@@ -88,6 +88,10 @@ const config = {
           {
             title: "Content",
             items: [
+              {
+                label: "useful",
+                to: "/docs",
+              },
               {
                 label: "Blog",
                 to: "/blog",
