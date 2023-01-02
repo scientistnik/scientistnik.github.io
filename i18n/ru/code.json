@@ -1,6 +1,21 @@
 {
-  "link_to_my_blog": {
+  "main.link_to_my_blog": {
     "message": "Почитайте мой блог ✍️"
+  },
+  "main.featureItem.cv.title": {
+    "message": "Резюме"
+  },
+  "main.featureItem.cv.description": {
+    "message": "Описание образования, рабочего опыта и скилов можно найти на странице"
+  },
+  "main.featureItem.blog.title": {
+    "message": "Блог"
+  },
+  "main.featureItem.blog.description": {
+    "message": "Пишу о своей философской позиции, мысли о прочитанных статьях и книгах, и окружающей действительности. Все это можно почитать на странице"
+  },
+  "main.featureItem.opensource.description": {
+    "message": "Публикую все на своей странице"
   },
   "theme.ErrorPageContent.title": {
     "message": "На странице произошёл сбой.",

@@ -77,11 +77,6 @@ const config = {
             },
           },
           {
-            href: "https://github.com/scientistnik",
-            label: "GitHub",
-            position: "right",
-          },
-          {
             type: "localeDropdown",
             position: "right",
           },
@@ -97,11 +92,19 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
+              {
+                label: "telegram_blog",
+                to: "https://t.me/scientistnikblog",
+              },
             ],
           },
           {
             title: "Contacts",
             items: [
+              {
+                label: "LinkedIn",
+                href: "https://www.linkedin.com/in/scientistnik",
+              },
               {
                 label: "Stack Overflow",
                 href: "https://stackoverflow.com/users/3770959/scientistnik",

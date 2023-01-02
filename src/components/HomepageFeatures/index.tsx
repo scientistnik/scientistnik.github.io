@@ -2,39 +2,48 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 
 type FeatureItem = {
-  title: string;
+  title: string | JSX.Element;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Резюме',
+    title: <Translate>main.featureItem.cv.title</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Описание образования, рабочего опыта и скилов можно найти на странице <Link to="/cv">CV</Link>
+        <Translate>main.featureItem.cv.description</Translate> <Link to="/cv">CV</Link>
       </>
     ),
   },
   {
-    title: 'Блог',
+    title: <Translate>main.featureItem.blog.title</Translate>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Пишу о своей философской позиции, мысли о прочитанных статьях и книгах, и окружающей действительности.
-        Все это можно почитать на странице <Link to="/blog">blog</Link>.
+        <Translate>main.featureItem.blog.description</Translate> <Link to="/blog">blog</Link>.
       </>
     ),
   },
+  // {
+  //   title: 'Wisecode',
+  //   Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+  //   description: (
+  //     <>
+  //       Проект доступного IT-образования для каждого. В данный момент не достаточно проработан для публикации
+  //     </>
+  //   ),
+  // },
   {
-    title: 'Wisecode',
+    title: 'OpenSource',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Проект доступного IT-образования для каждого. В данный момент не достаточно проработан для публикации
+        <Translate>main.featureItem.opensource.description</Translate> <Link to="https://github.com/scientistnik">GitHub</Link>
       </>
     ),
   },
