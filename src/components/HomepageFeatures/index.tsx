@@ -13,7 +13,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: <Translate>main.featureItem.cv.title</Translate>,
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/resume-business-cv-work-job-curriculum-svgrepo-com.svg').default,
     description: (
       <>
         <Translate>main.featureItem.cv.description</Translate> <Link to="/cv">CV</Link>
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: <Translate>main.featureItem.blog.title</Translate>,
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/blog-svgrepo-com.svg').default,
     description: (
       <>
         <Translate>main.featureItem.blog.description</Translate> <Link to="/blog">blog</Link>.
@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
   // },
   {
     title: 'OpenSource',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/legal-license-copyleft-svgrepo-com.svg').default,
     description: (
       <>
         <Translate>main.featureItem.opensource.description</Translate> <Link to="https://github.com/scientistnik">GitHub</Link>
